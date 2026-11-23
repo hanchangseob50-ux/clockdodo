@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "ClockDodo.com — Clock & Time Tools",
+  "short_name": "ClockDodo",
+  "description": "Free online clock, alarms, timers and world clocks.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#285c4a",
+  "icons": [
+    { "src": "/clockdodo-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/clockdodo-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
