@@ -1,154 +1,154 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clockdodo.com/?lang=ko</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/ko/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=en</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/en/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=ja</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/ja/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=zh</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/zh/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=es</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/es/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=fr</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/fr/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=pt</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/pt/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=de</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/de/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=hi</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/hi/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=ru</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/ru/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
     <loc>https://clockdodo.com/en/</loc>
@@ -1167,19 +1167,19 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
-    <loc>https://clockdodo.com/?lang=cs</loc>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
-    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+    <loc>https://clockdodo.com/cs/app/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/ko/app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/app/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/app/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/app/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt/app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/app/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/app/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/app/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/ko/app/" />
   </url>
   <url>
     <loc>https://clockdodo.com/cs/online-alarm-clock/</loc>

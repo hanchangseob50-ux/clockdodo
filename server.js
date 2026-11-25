@@ -112,7 +112,11 @@ async function start() {
   server.listen(Number(process.env.PORT || 8080));
 }
 
-start().catch(error => {
-  console.error(error);
-  process.exitCode = 1;
-});
+module.exports = { localizedHome };
+
+if (require.main === module) {
+  start().catch(error => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
