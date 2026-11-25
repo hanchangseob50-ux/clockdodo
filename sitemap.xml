@@ -1,154 +1,190 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://clockdodo.com/</loc>
-    <lastmod>2026-11-23</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
+    <loc>https://clockdodo.com/?lang=ko</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=en</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=ja</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=zh</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=es</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=fr</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=pt</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=de</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=hi</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=ru</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
   </url>
   <url>
     <loc>https://clockdodo.com/en/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/ja/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/zh/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/es/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/fr/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/pt-br/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/de/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/hi/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/ru/</loc>
     <lastmod>2026-11-21</lastmod>
-    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/" />
-    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/" />
-    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/" />
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/" />
-    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/" />
   </url>
   <url>
     <loc>https://clockdodo.com/about.html</loc>
@@ -183,6 +219,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -198,6 +235,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -213,6 +251,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -228,6 +267,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -243,6 +283,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -258,6 +299,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -273,6 +315,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -288,6 +331,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -303,6 +347,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -318,6 +363,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -333,6 +379,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -348,6 +395,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -363,6 +411,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -378,6 +427,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -393,6 +443,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
   </url>
   <url>
@@ -408,6 +459,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -423,6 +475,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -438,6 +491,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -453,6 +507,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -468,6 +523,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -483,6 +539,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -498,6 +555,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -513,6 +571,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -528,6 +587,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
   </url>
   <url>
@@ -543,6 +603,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -558,6 +619,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -573,6 +635,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -588,6 +651,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -603,6 +667,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -618,6 +683,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -633,6 +699,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -648,6 +715,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -663,6 +731,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
   </url>
   <url>
@@ -678,6 +747,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -693,6 +763,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -708,6 +779,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -723,6 +795,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -738,6 +811,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -753,6 +827,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -768,6 +843,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -783,6 +859,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -798,6 +875,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
   </url>
   <url>
@@ -813,6 +891,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -828,6 +907,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -843,6 +923,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -858,6 +939,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -873,6 +955,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -888,6 +971,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -903,6 +987,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -918,6 +1003,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -933,6 +1019,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
   </url>
   <url>
@@ -948,6 +1035,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -963,6 +1051,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -978,6 +1067,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -993,6 +1083,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -1008,6 +1099,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -1023,6 +1115,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -1038,6 +1131,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -1053,6 +1147,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
   </url>
   <url>
@@ -1068,6 +1163,115 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/?lang=cs</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/?lang=zh" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/?lang=cs" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/?lang=ko" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/online-alarm-clock/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/online-alarm-clock/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/online-alarm-clock/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/countdown-timer/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/countdown-timer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/countdown-timer/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/stopwatch-online/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/stopwatch-online/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/stopwatch-online/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/world-clock/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/world-clock/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/world-clock/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/time-zone-converter/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/time-zone-converter/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/time-zone-converter/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/pomodoro-timer/</loc>
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://clockdodo.com/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clockdodo.com/en/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://clockdodo.com/ja/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://clockdodo.com/zh/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clockdodo.com/es/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clockdodo.com/fr/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://clockdodo.com/pt-br/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clockdodo.com/de/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://clockdodo.com/hi/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clockdodo.com/ru/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="cs-CZ" href="https://clockdodo.com/cs/pomodoro-timer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clockdodo.com/en/pomodoro-timer/" />
+  </url>
+  <url>
+    <loc>https://clockdodo.com/cs/</loc>
   </url>
 </urlset>
