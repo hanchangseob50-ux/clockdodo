@@ -26,11 +26,12 @@ function localizedHome(template, code) {
   const guidePrefix = '/' + slug + '/';
   const canonical = origin + guidePrefix;
   const head = template.slice(0, template.indexOf('<body>'))
-    .replace('<html lang="ko">', '<html lang="' + locale + '">')
+    .replace(/<html lang="[^"]*">/, '<html lang="' + locale + '">')
     .replace(/<title>[^<]*<\/title>/, () => '<title>' + escapeHtml(seo.title) + '</title>')
     .replace(/((?:name="description"|property="og:description") content=")[^"]*/g,
       (_, prefix) => prefix + escapeHtml(seo.description))
     .replace(/(property="og:title" content=")[^"]*/, (_, prefix) => prefix + escapeHtml(seo.title))
+    .replace('<meta property="og:type" content="website">', '<meta property="og:type" content="website"><meta property="og:locale" content="' + locale + '">')
     .replace(/((?:rel="canonical" href|property="og:url" content)=")[^"]*/g,
       (_, prefix) => prefix + canonical)
     .replaceAll('"url":"' + origin + '/?lang=ko"', '"url":"' + canonical + '"')

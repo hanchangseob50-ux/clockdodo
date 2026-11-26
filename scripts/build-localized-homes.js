@@ -38,7 +38,12 @@ for (const file of fs.readdirSync(root, { recursive: true })) {
 }
 
 const sitemap = path.join(root, 'sitemap.xml');
-if (fs.existsSync(sitemap)) fs.writeFileSync(sitemap, normalizeLinks(fs.readFileSync(sitemap, 'utf8')));
+if (fs.existsSync(sitemap)) {
+  const today = new Date().toISOString().slice(0, 10);
+  const xml = normalizeLinks(fs.readFileSync(sitemap, 'utf8'))
+    .replace(/<lastmod>[^<]*<\/lastmod>/g, `<lastmod>${today}</lastmod>`);
+  fs.writeFileSync(sitemap, xml);
+}
 
 // Keep the old generated app paths as redirects for existing links.
 for (const code of Object.keys(languageNames)) {
