@@ -7,16 +7,23 @@ const { localizedHome } = require('../server.js');
 
 const root = path.resolve(__dirname, '..');
 const template = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
-const languageUrl = /\/\?lang=([a-z]{2})(?=["<])/g;
-const useLanguagePaths = html => html.replace(languageUrl, '/$1/app/');
+const slugs = { ko: 'kr', pt: 'pt-br' };
 
 for (const code of Object.keys(languageNames)) {
-  const output = path.join(root, code, 'app');
-  const html = useLanguagePaths(localizedHome(template, code))
-    .replace(/\b(href|src)="(?!\/|[a-z]+:|#)([^"]+)"/gi, '$1="/$2"');
+  const slug = slugs[code] || code;
+  const output = path.join(root, slug);
   fs.mkdirSync(output, { recursive: true });
+  const html = localizedHome(template, code)
+    .replace(/(href|src)="(?!https?:|\/|#)([^"]+)"/g, '$1="/$2"')
+    .replace(/\/([a-z]{2}|pt-br)\/app\//g, (_, slug) => `/${slug === 'ko' ? 'kr' : slug === 'pt' ? 'pt-br' : slug}/`);
   fs.writeFileSync(path.join(output, 'index.html'), html.trimEnd() + '\n');
 }
 
-const sitemap = path.join(root, 'sitemap.xml');
-fs.writeFileSync(sitemap, useLanguagePaths(fs.readFileSync(sitemap, 'utf8')));
+// Keep the old generated app paths as redirects for existing links.
+for (const code of Object.keys(languageNames)) {
+  const oldSlug = code === 'ko' ? 'ko' : code === 'pt' ? 'pt' : code;
+  const output = path.join(root, oldSlug, 'app');
+  fs.mkdirSync(output, { recursive: true });
+  const target = '/' + (slugs[code] || code) + '/';
+  fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html><meta http-equiv="refresh" content="0;url=${target}"><link rel="canonical" href="${target}">`);
+}

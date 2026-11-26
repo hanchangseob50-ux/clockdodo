@@ -22,8 +22,9 @@ function escapeHtml(value) {
 function localizedHome(template, code) {
   const seo = seoText[code];
   const locale = languageNames[code];
-  const guidePrefix = { ko: '/', pt: '/pt-br/' }[code] || '/' + code + '/';
-  const canonical = origin + '/?lang=' + code;
+  const slug = { ko: 'kr', pt: 'pt-br' }[code] || code;
+  const guidePrefix = '/' + slug + '/';
+  const canonical = origin + guidePrefix;
   const head = template.slice(0, template.indexOf('<body>'))
     .replace('<html lang="ko">', '<html lang="' + locale + '">')
     .replace(/<title>[^<]*<\/title>/, () => '<title>' + escapeHtml(seo.title) + '</title>')
@@ -33,6 +34,16 @@ function localizedHome(template, code) {
     .replace(/((?:rel="canonical" href|property="og:url" content)=")[^"]*/g,
       (_, prefix) => prefix + canonical)
     .replaceAll('"url":"' + origin + '/?lang=ko"', '"url":"' + canonical + '"')
+    .replace(/https:\/\/clockdodo\.com\/(?:ko|en|ja|zh|es|fr|pt|pt-br|de|hi|ru|cs)\/app\//g, match =>
+      match.replace(/\/ko\/app\/$/, '/kr/').replace(/\/pt\/app\/$/, '/pt-br/').replace(/\/([a-z-]+)\/app\/$/, '/$1/'))
+    .replace(/https:\/\/clockdodo\.com\/(?:ko|en|ja|zh|es|fr|pt|pt-br|de|hi|ru|cs)\//g, match =>
+      match.replace(/\/ko\/$/, '/kr/').replace(/\/pt\/$/, '/pt-br/'))
+    .replaceAll(origin + '/ko/app/', origin + '/kr/')
+    .replaceAll(origin + '/ko/', origin + '/kr/')
+    .replaceAll(origin + '/pt/app/', origin + '/pt-br/')
+    .replaceAll(origin + '/' + code + '/app/', canonical)
+    .replaceAll(origin + '/' + code + '/', canonical)
+    .replaceAll('"url":"' + origin + '/?lang=' + code + '"', '"url":"' + canonical + '"')
     .replace(/"inLanguage":\[[^\]]*\]/, '"inLanguage":"' + locale + '"');
 
   const body = template.slice(template.indexOf('<body>'))
@@ -48,6 +59,9 @@ function localizedHome(template, code) {
       return translated === token ? token : escapeHtml(translated);
     })
     .replace('<option value="' + code + '"', '<option value="' + code + '" selected')
+    .replaceAll('href="/ko/app/"', 'href="/kr/"')
+    .replaceAll('href="/pt/app/"', 'href="/pt-br/"')
+    .replace(new RegExp('href="/' + code + '/app/"', 'g'), 'href="' + canonical.replace(origin, '') + '"')
     .replace(/(id="toolGuideLinks"[^>]*>)([\s\S]*?)(<\/nav>)/,
       (_, start, links, end) => start + links.replaceAll('href="/', 'href="' + guidePrefix) + end);
   return head + body;
@@ -72,12 +86,29 @@ async function start() {
       if (pathname === '/' || pathname === '/index.html') {
         const requested = url.searchParams.get('lang');
         const code = homes.has(requested) ? requested : 'ko';
-        const html = homes.get(code);
-        response.writeHead(200, {
+        response.writeHead(301, {
+          Location: ({ ko: '/kr/', pt: '/pt-br/' }[code] || '/' + code + '/') + url.search,
+          'Content-Language': languageNames[code],
+        }).end();
+        return;
+      }
+
+      const localeRoot = pathname.match(/^\/(kr|ko|en|ja|zh|es|fr|pt-br|pt|de|hi|ru|cs)\/$/);
+      if (localeRoot) {
+        const slug = localeRoot[1];
+        const code = ({ kr: 'ko', 'pt-br': 'pt' }[slug] || slug);
+        if (homes.has(code)) {
+          const html = homes.get(code);
+          response.writeHead(200, {
           'Content-Type': types['.html'],
           'Content-Language': languageNames[code],
-        })
-          .end(request.method === 'HEAD' ? undefined : html);
+          }).end(request.method === 'HEAD' ? undefined : html);
+          return;
+        }
+      }
+
+      if (pathname === '/ko/' || pathname === '/pt/') {
+        response.writeHead(301, { Location: pathname === '/ko/' ? '/kr/' : '/pt-br/' }).end();
         return;
       }
 
