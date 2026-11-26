@@ -51,5 +51,5 @@ for (const code of Object.keys(languageNames)) {
   const output = path.join(root, oldSlug, 'app');
   fs.mkdirSync(output, { recursive: true });
   const target = '/' + (slugs[code] || code) + '/';
-  fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html><meta http-equiv="refresh" content="0;url=${target}"><link rel="canonical" href="${target}">`);
+  fs.writeFileSync(path.join(output, 'index.html'), `<!doctype html><html><head><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=${target}"><link rel="canonical" href="https://clockdodo.com${target}"></head><body><a href="${target}">Continue</a></body></html>`);
 }
