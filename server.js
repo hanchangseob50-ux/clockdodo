@@ -4,6 +4,7 @@ const http = require('node:http');
 const fs = require('node:fs/promises');
 const path = require('node:path');
 const { languageNames, seoText, translate } = require('./js/locale.js');
+const { featureSeoCopy } = require('./js/seo-copy.js');
 
 const origin = 'https://clockdodo.com';
 const types = {
@@ -47,7 +48,8 @@ function localizedHome(template, code) {
     .replaceAll('"url":"' + origin + '/?lang=' + code + '"', '"url":"' + canonical + '"')
     .replace(/"inLanguage":\[[^\]]*\]/, '"inLanguage":"' + locale + '"');
 
-  const body = template.slice(template.indexOf('<body>'))
+  const localizedBodyTemplate = template.slice(template.indexOf('<body>')).replace(/<section class="seo-feature-copy"[\s\S]*?<\/section>/, featureSeoCopy[code] || featureSeoCopy.en);
+  const body = localizedBodyTemplate
     .replace('id="toolGuideLinks" aria-label="Tool guides"', 'id="toolGuideLinks" aria-label="도구 안내"')
     .replace(/(<(?:h2|p) id="seoIntro(?:Title|Text)">)[^<]*/g, (match, tag) =>
       tag + escapeHtml(tag.startsWith('<h2') ? seo.introTitle : seo.intro))
@@ -64,7 +66,7 @@ function localizedHome(template, code) {
     .replaceAll('href="/pt/app/"', 'href="/pt-br/"')
     .replace(new RegExp('href="/' + code + '/app/"', 'g'), 'href="' + canonical.replace(origin, '') + '"')
     .replace(/(id="toolGuideLinks"[^>]*>)([\s\S]*?)(<\/nav>)/,
-      (_, start, links, end) => start + links.replaceAll('href="/', 'href="' + guidePrefix) + end);
+      (_, start, links, end) => start + links.replaceAll('href="/', 'href="' + (code === 'ko' ? '/' : guidePrefix)) + end);
   return head + body;
 }
 
@@ -110,6 +112,12 @@ async function start() {
 
       if (pathname === '/ko/' || pathname === '/pt/') {
         response.writeHead(301, { Location: pathname === '/ko/' ? '/kr/' : '/pt-br/' }).end();
+        return;
+      }
+
+      const koreanFeature = pathname.match(/^\/(?:kr|ko)\/(online-clock|digital-clock|analog-clock|flip-clock|online-alarm-clock|countdown-timer|stopwatch-online|world-clock|pomodoro-timer|date-countdown)\/$/);
+      if (koreanFeature) {
+        response.writeHead(301, { Location: '/' + koreanFeature[1] + '/' }).end();
         return;
       }
 
